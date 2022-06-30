@@ -1,5 +1,5 @@
 # String
-nombre = "Ana"
+nombre = "Pepe"
 
 #Entero(int) 
 edad= 20
